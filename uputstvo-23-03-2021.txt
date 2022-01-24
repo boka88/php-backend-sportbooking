@@ -1,0 +1,2 @@
+uradjeno u getdata.php koji poziva rekreacija pa "rekreacijad.php"
+koja formira JSON fajl
